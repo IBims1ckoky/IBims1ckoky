@@ -90,8 +90,9 @@
 <br/>  
 
 
-<br/>  
-### I`m currently listening to  
+
+###I`m currently listening to  
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=85p780dnwfj3fq0syol3urd80&cover_image=true&theme=default" /></div>  
 
 <br/>  
