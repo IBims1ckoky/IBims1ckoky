@@ -58,7 +58,6 @@
 
 
 ## Connect with me  
-<table><tr><td valign="top" width="33%">
 <div align="center">
 <a href="https://github.com/ibims1ckoky" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -79,7 +78,6 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="33%">
 
 ### Activity Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ibims1ckoky&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -94,7 +92,6 @@
 
 <br/>  
 ### I`m currently listening to  
-<table><tr><td valign="top" width="33%">
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=85p780dnwfj3fq0syol3urd80&cover_image=true&theme=default" /></div>  
 
 <br/>  
@@ -102,7 +99,6 @@
 
 
 ### Profilevisits  
-<table><tr><td valign="top" width="33%">
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ibims1ckoky&&style=flat-square" align="center" />
 </div>  
