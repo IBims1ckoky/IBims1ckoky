@@ -77,7 +77,7 @@
 <br/>  
 
 
-## Github Stats  
+## GitHub Stats  
 
 
 ### Activity Stats  
