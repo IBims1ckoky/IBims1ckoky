@@ -79,6 +79,7 @@
 
 ## Github Stats  
 
+
 ### Activity Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ibims1ckoky&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -90,9 +91,14 @@
 <br/>  
 
 
+## Recent Blog Posts  
+  
 
-###I`m currently listening to  
+<br/>  
 
+
+
+### I`m currently listening to  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=85p780dnwfj3fq0syol3urd80&cover_image=true&theme=default" /></div>  
 
 <br/>  
@@ -117,3 +123,4 @@
 <br />
 
 ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
