@@ -83,39 +83,12 @@
 ### Activity Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ibims1ckoky&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-
-
-### Language Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibims1ckoky&hide_border=true&layout=compact" align="left" />  
-
-  
-
 <br/>  
 
 
 
 ### I`m currently listening to  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=85p780dnwfj3fq0syol3urd80&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-
-
-### Profilevisits  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ibims1ckoky&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=85p780dnwfj3fq0syol3urd80&cover_image=true&theme=default" /></div>
 <br />
 
 ----
