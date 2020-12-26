@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Minecraft Legend](https://github.com/playlegend)  
   
 
-- 🌱 I’m currently learning Python, C and Android Development
+- 🌱 I’m currently learning Python and Android Development
   
 
 <br/>  
