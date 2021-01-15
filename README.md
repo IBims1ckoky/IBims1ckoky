@@ -47,7 +47,7 @@
 
 
 
-### In Learn Progress
+### Currently I'm learning
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://i.imgur.com/aPNH4Oz.png" alt="Netty" height="50" />
@@ -92,9 +92,8 @@
 ## Spotify Listening  
 
 
-### I`m currently listening to  
+### I'm currently listening to  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=85p780dnwfj3fq0syol3urd80&cover_image=true&theme=default" /></div>
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
