@@ -86,7 +86,7 @@
 ### Activity Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ibims1ckoky&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <p>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibims1ckoky&show_icons=true&theme=light&locale=en&layout=compact" alt="ibims1ckoky" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibims1ckoky&show_icons=true&theme=light&locale=en&layout=demo" alt="ibims1ckoky" /></div>
 <br/>  
 
 
