@@ -6,7 +6,7 @@
 ### <div align="center">I'm Maxi, a leisure developer and I will start my training as an application developer next year.👨‍💻Programming since 3 1/2 Years🚀</div>  
   
 
-- 🔭 I’m currently working on Nothing. Searching for Project  
+- 🔭 I’m currently working on PlayLegendNet as Game-Developer
   
 
 - 🌱 I’m currently learning Python and Android Development
