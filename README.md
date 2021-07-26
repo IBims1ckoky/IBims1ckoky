@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Maxi, a leisure developer and I will start my training as an application developer next year.👨‍💻Programming since 3 1/2 Years🚀</div>  
+### <div align="center">I'm Maxi, 16 years old and I'm currently doing my apprenticeship as an application developer.👨‍💻Programming since 3 1/2 Years🚀</div>  
   
 
 - 🔭 I’m currently working on PlayLegendNet as Game-Developer
