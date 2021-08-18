@@ -6,7 +6,7 @@
 ### <div align="center">I'm Maxi, 16 years old and I'm currently doing my apprenticeship as an application developer.👨‍💻Programming since 3 1/2 Years🚀</div>  
   
 
-- 🔭 I’m currently working on PlayLegendNet as Game-Developer
+- 🔭 I’m currently working on @playlegend as Game-Developer
   
 
 - 🌱 I’m currently learning Python and Android Development
