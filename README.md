@@ -5,8 +5,10 @@
 
 ### <div align="center">I'm Maxi, 16 years old and I'm currently doing my apprenticeship as an application developer.👨‍💻Programming since 3 1/2 Years🚀</div>  
   
+- 🔭 I’m currently working at the SPINNER Group in Westerham
+- 
 
-- 🔭 I’m currently working on @playlegendnet as Game-Developer
+- 🔭 I’m currently working (online) on @playlegendnet as Game-Developer
   
 
 - 🌱 I’m currently learning Python and Android Development
