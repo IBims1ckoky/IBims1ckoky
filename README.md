@@ -54,7 +54,7 @@
 
 
 
-### Currently I'm learning
+### Parallel Learning
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://i.imgur.com/aPNH4Oz.png" alt="Netty" height="50" />
