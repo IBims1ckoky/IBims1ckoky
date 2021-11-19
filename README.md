@@ -32,8 +32,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /> 
 <img style="margin: 10px" src="https://i.imgur.com/RPP7RYV.png" alt="RestAPI" height="50" />
-<img style="margin: 10px" src="https://camo.githubusercontent.com/7dcab84a9b7c8755e0346ac5742ed1254f4217b2439ffc3a3d47c9f6e813c668/68747470733a2f2f73656e7472792d6272616e642e73746f726167652e676f6f676c65617069732e636f6d2f73656e7472792d6c6f676f2d626c61636b2e706e67" alt="Sentry" height="50" />
-<img style="margin: 10px" src="https://dbdb.io/media/logos/InfluxDB.png" alt="InfluxDB" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
