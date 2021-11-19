@@ -21,7 +21,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Technical Skills  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -37,6 +36,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 <img style="margin: 10px" src="https://i.imgur.com/cc8BKyS.png" alt="ActiveMQ" height="50" />    
+<img style="margin: 10px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ypy421hvgfeziiuadsmc" alt="Sentry" height="50" />   
 </div>
 
 </td><td valign="top" width="33%">
