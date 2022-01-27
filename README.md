@@ -4,9 +4,6 @@
   
 
 ### <div align="center">I'm Maxi, 16 years old and I'm currently doing my apprenticeship as an software developer.👨‍💻Programming since 3 1/2 Years🚀</div>  
-  
-- 🔭 I’m currently working at the [SPINNER Group](https://www.spinner-group.com/de/) in Westerham
-
 
 - 🔭 I’m currently working (online) on @playlegendnet as Game-Developer
   
