@@ -5,8 +5,9 @@
 
 ### <div align="center">I'm Maxi, a 17 years old leisure developer👨‍💻Programming since 4 Years🚀</div>  
 
-- 🔭 I’m currently working (online) on @playlegendnet as Game-Developer
-  
+- 🔭 I’m currently working on @playlegendnet as Game-Developer
+
+- 💡 I’m currently working on my Open-Source-Project [LightControllerAPI](https://github.com/IBims1ckoky/LightControllerAPI) to controll Lamps from [Phillips Hue](https://www.philips-hue.com/)
 
 - 🌱 I’m currently learning Python and Android Development
   
