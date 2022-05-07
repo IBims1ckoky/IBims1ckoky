@@ -79,7 +79,7 @@
 </a>
 <a href="https://stackoverflow.com/users/13849087" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a> 
+</a> </br>
 Stackshare: https://stackshare.io/ibims1ckoky
 </div>  
   
