@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on @playlegendnet as Game-Developer
 
-- 💡 I’m currently working on my Open-Source-Project [NetheriteMC (Serversoftware)](https://github.com/IBims1ckoky/NetheriteMC) to controll Lamps from [Phillips Hue](https://www.philips-hue.com/)
+- 💡 I’m currently working on [NetheriteMC (Serversoftware)](https://github.com/IBims1ckoky/NetheriteMC) (Currently Private).
 
 - 🌱 I’m currently learning Python and Android Development
   
