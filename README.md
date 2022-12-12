@@ -9,7 +9,7 @@
 
 - 💡 I’m currently working on [NetheriteMC (Serversoftware)](https://github.com/IBims1ckoky/NetheriteMC) (Currently Private).
 
-- 🌱 I’m currently learning Python and Android Development
+- 🌱 I’m currently learning Kubernetes
   
 
 <br/>  
