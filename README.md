@@ -33,6 +33,7 @@
 <img style="margin: 10px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ypy421hvgfeziiuadsmc" alt="Sentry" height="50" />   
 <img style="margin: 10px" src="https://i.imgur.com/UnHCGgc.png" alt="Gradle" height="50" />   
 <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/473791?s=200&v=4" alt="Netty" height="50" />   
+<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/913074968539357184/UuHV6j99_400x400.jpg" alt="Vaadin" height="50" />     
 </div>
 
 </td><td valign="top" width="33%">
