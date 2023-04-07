@@ -84,7 +84,7 @@ Stackshare: https://stackshare.io/ibims1ckoky
 
 
 ### Activity Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IBims1ckoky&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IBims1ckoky&count_private=true&theme=dark" align="center" /></div>  
 <p>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibims1ckoky&show_icons=true&theme=light&locale=en&layout=demo" alt="ibims1ckoky" /></div>
 <br/>  
