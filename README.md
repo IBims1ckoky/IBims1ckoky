@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Maxi, a 18 years old leisure developer👨‍💻Programming for 5 Years🚀</div>  
 
-- 🔭 I’m currently working on @playlegendnet as Game-Developer
+- 🔭 I’m currently working on [@PlayLegend](https://github.com/playlegend) as Game-Developer
 
 - 💡 I’m currently working on [NetheriteMC (Serversoftware)](https://github.com/IBims1ckoky/NetheriteMC) (Currently Private).
 
