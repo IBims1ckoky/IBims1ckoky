@@ -21,19 +21,15 @@
 
 ### Technical Skills  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /> 
-<img style="margin: 10px" src="https://i.imgur.com/RPP7RYV.png" alt="RestAPI" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="https://i.imgur.com/cc8BKyS.png" alt="ActiveMQ" height="50" />    
-<img style="margin: 10px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ypy421hvgfeziiuadsmc" alt="Sentry" height="50" />   
+<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/913074968539357184/UuHV6j99_400x400.jpg" alt="Vaadin" height="50" />   
 <img style="margin: 10px" src="https://i.imgur.com/UnHCGgc.png" alt="Gradle" height="50" />   
-<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/473791?s=200&v=4" alt="Netty" height="50" />   
-<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/913074968539357184/UuHV6j99_400x400.jpg" alt="Vaadin" height="50" />     
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://i.imgur.com/RPP7RYV.png" alt="RestAPI" height="50" />
+<img style="margin: 10px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ypy421hvgfeziiuadsmc" alt="Sentry" height="50" />   
+<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/473791?s=200&v=4" alt="Netty" height="50" />     
 </div>
 
 </td><td valign="top" width="33%">
@@ -41,10 +37,10 @@
 
 
 ### Databases and Caching  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<div align="center"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /> 
 <img style="margin: 10px" src="https://i.imgur.com/dPkiQQ2.png" alt="Hibernate JPA" height="50" />  
 </div>
 
