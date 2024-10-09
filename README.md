@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [@PlayLegend](https://github.com/playlegend) as Game-Developer
 
-- 💡 I’m currently working on [NetheriteMC (Serversoftware)](https://github.com/IBims1ckoky/NetheriteMC) (Currently Private).
+- 💡 I’m currently working on [CodingLab (Programming Learning-Lab)](https://github.com/IBims1ckoky/CodingLab) (Currently Private).
 
 - 🌱 I’m currently learning Kubernetes
   
